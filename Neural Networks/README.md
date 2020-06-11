@@ -1,4 +1,4 @@
-# Articial Intelligence Foundations
+# Artificial intelligence (AI) Foundations
 
 Notebooks, code snipptes containing different AI algorithms which can work as cheat sheet for any future projeccts
 
