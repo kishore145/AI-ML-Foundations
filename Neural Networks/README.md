@@ -5,7 +5,7 @@ Notebooks, code snipptes containing different AI algorithms for quick reference 
 References / Credits are given below.   
 The section will be expanded as more and more notebooks are added.  
 
-Credits - 
+Credits -  
 JonKrohn's lectures on deep learning from O'Riley. You can check out his playlist on O'Riley or his youtube channel.  
 JonKrohn's Github for further reference - https://github.com/jonkrohn/DLTFpT  
 
